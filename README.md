@@ -8,7 +8,7 @@ Dependencies
   - numpy
   - scipy
 
-Methods
+Methods- Joint-descend method
 -------
 
 minirank.ordinal_logistic_fit
